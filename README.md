@@ -5,7 +5,7 @@
 
 [What is your favourite board game and why?](https://medium.com/@j.fielding/term-3-week-1-my-favourite-board-game-and-why-ee80cb216b8a) 
 
-[When creating online content for children, what are some of the ethical considerations you need to take?]() 
+[When creating online content for children, what are some of the ethical considerations you need to take?](https://medium.com/@j.fielding/term-3-week-2-when-creating-online-content-for-children-what-are-some-of-the-ethical-adaad5581ba9) 
 
 [Strengths And Weaknesses In My Current Project]()  
 
